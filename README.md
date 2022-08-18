@@ -8,7 +8,7 @@ Aplicación creada con el fin de repasar los conceptos de programación orientad
 # Taller 
 
 Construir un aplicación en java que permita administrar las ventas de productos que se hacen a los clientes de un almacén.
-La acplicación contiene: 
+La aplicación contiene: 
 
 CRUD PRODUCTOS
 CRUD CLIENTES 
